@@ -15,8 +15,8 @@
         <module>xmall-order</module>
         <module>xmall-product</module>
         <module>xmall-ware</module>
+        <module>xmall_common</module>
         <module>renren-fast</module>
         <module>renren-generator</module>
-        <module>xmall_common</module>
     </modules>
 </project>
